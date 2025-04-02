@@ -1,0 +1,10 @@
+# Ignore dataset folder
+images/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files
+*.pth
+*.pt
+
