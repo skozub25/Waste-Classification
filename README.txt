@@ -4,6 +4,8 @@ Date: 5/18/2024
 
 This dataset contains images of various recyclable materials, general waste, and household items for the purpose of waste classification and recycling research.
 
+Link: https://www.kaggle.com/datasets/alistairking/recyclable-and-household-waste-classification?resource=download
+
 Dataset Structure:
 The dataset is organized into a hierarchical folder structure as follows:
 
